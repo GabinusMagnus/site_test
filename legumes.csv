@@ -1,0 +1,3 @@
+id,nom,variété,types,code_saison,prix,dispo?,lien photo,lien recettes,acheté,descriptif
+1,carottes,belle de mai,l,2,"1,5",1,(not null),(not null),0,belle comme tout
+2,cerises,bigaro,f,2,5,0,(not null),(not null),0,belle comme tout
